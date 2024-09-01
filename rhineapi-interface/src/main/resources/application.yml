@@ -1,0 +1,9 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8123
+  servelet:
+    context-path: api
+rhineapi:
+  client:
+    access-key: rhine
+    secret-key: abcdefg
